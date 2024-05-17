@@ -52,6 +52,15 @@
 	color: #fff;
 }
 
+.gpt3__header-content__input input::placeholder {
+	font-family: var(--font-family);
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 27px;
+
+	color: #3d6184;
+}
+
 .gpt3__header-content__input button {
 	flex: 0.6;
 	width: 100%;
