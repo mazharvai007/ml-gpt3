@@ -169,4 +169,8 @@
 		font-size: 12px;
 		line-height: 16px;
 	}
+
+	.gpt3__header-content__input input {
+		flex: 1;
+	}
 }
