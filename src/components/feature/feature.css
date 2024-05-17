@@ -1,4 +1,4 @@
-.gtp3__features-container__feature {
+.gpt3__features-container__feature {
 	width: 100%;
 	display: flex;
 	justify-content: space-between;
@@ -27,16 +27,18 @@
 	font-family: var(--font-family);
 	font-weight: 800;
 	font-size: 24px;
-	line-height: 75px;
+	line-height: 30px;
 	letter-spacing: -0.04em;
 
 	color: #ffffff;
+	margin-top: 1rem;
 }
 
 .gpt3__features-container__feature-text {
 	flex: 2;
 	max-width: 390px;
 	display: flex;
+	margin-top: 3rem;
 }
 
 .gpt3__features-container__feature-text p {
